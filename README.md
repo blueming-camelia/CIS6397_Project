@@ -23,6 +23,8 @@ Average Total Payments for inpatient care in each States
 ![ranked_outpatient_cost_procedure](https://user-images.githubusercontent.com/63881504/205669528-87f94b56-d879-4723-a195-cf00ceec3ba0.png)
 
 _Ranked Outpatient Procedure Observations_
+
+**The most expensive procedure per state is not to be confused with the most expensive procedure on average.**
 * Wyoming (WY) is the state with the most expensive outpatient procedures (total = 11 at HIGH LEVEL).
 * Arkansas (AK) is the second state with the most expensive outpatient procedures (total = 8 at HIGH LEVEL).
 * MA, CA, NY, and VT have very low cost per outpatient procedures.Perhaps they have laws that cap-out procedures at certain prices due to political standings of the states on public health. 
@@ -31,6 +33,8 @@ _Ranked Outpatient Procedure Observations_
 ![ranked_inpatient_cost_procedure](https://user-images.githubusercontent.com/63881504/205669494-f0f85327-d069-4f9b-9e3c-9250882ff2ce.png)
 
 _Ranked Inpatient Procedure Observations_
+
+**The most expensive procedure per state is not to be confused with the most expensive procedure on average.**
 * Arkansas (AK) is the state with the most expensive inpatient procedures (total = 22 at HIGH LEVEL).
 * Wyoming (WY) is the second state with the most expensive inpatient procedures (total = 13 at HIGH LEVEL).
 * Hawaii (HI) is the third state with the most expensive procedures (total = 12 at HIGH LEVEL).
@@ -66,7 +70,7 @@ _Ranked Inpatient Procedure Observations_
 |190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC                                      |2713    |
 
 
-* List and compare the top 10 expensive outpatient and inpatient care.
+* List and compare the top 10 expensive outpatient and inpatient care based on Average Total Payments.
   
 | Outpatient - APC                                                                       |Average Total Payments |
 |----------------------------------------------------------------------------------------|-----------------------|                                                   
